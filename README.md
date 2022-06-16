@@ -26,6 +26,11 @@ changes i see
 
 GIT COURCE 2022
 
-#SOMETHING
+# SOMETHING
 
 Adding Something
+
+## HOW TO CONTRIBUTE
+
+Please Fork This Repository and Then Issue The Pull Request
+
