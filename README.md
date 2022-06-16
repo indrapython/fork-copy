@@ -21,3 +21,7 @@ Its Always Interesgting to counicate with the github using the bash and using ve
 ## HMMMMMMM
 
 changes i see
+
+## COPYRIGHT
+
+GIT COURCE 2022
