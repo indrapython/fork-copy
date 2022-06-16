@@ -10,6 +10,6 @@ Sample website with plenty of files for demos
 
 Sample deployment Practise
 
-##Practice
+## Practice
 
 Its Good!!
